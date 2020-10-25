@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536416893234",
+    "firebase_url": "https://controle-remoto-carro.firebaseio.com",
+    "project_id": "controle-remoto-carro",
+    "storage_bucket": "controle-remoto-carro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536416893234:android:f664b0eb37992f98",
+        "android_client_info": {
+          "package_name": "com.maseletrico.remotecontrolkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536416893234-rhf4ebuttdjc7kjdonigbh8d1hb2o24t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maseletrico.remotecontrolkey",
+            "certificate_hash": "81734f4c957153724e3a2ac0c665a4c3309a39f1"
+          }
+        },
+        {
+          "client_id": "536416893234-i95hcl01kg21vk8e6rumg6f9j35eal20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34ne5dqtiH_0cKoeF3nClhbHxCuEwBqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536416893234-i95hcl01kg21vk8e6rumg6f9j35eal20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">536416893234-i95hcl01kg21vk8e6rumg6f9j35eal20.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://controle-remoto-carro.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">536416893234</string>
+    <string name="google_api_key" translatable="false">AIzaSyD34ne5dqtiH_0cKoeF3nClhbHxCuEwBqU</string>
+    <string name="google_app_id" translatable="false">1:536416893234:android:f664b0eb37992f98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD34ne5dqtiH_0cKoeF3nClhbHxCuEwBqU</string>
+    <string name="google_storage_bucket" translatable="false">controle-remoto-carro.appspot.com</string>
+    <string name="project_id" translatable="false">controle-remoto-carro</string>
+</resources>

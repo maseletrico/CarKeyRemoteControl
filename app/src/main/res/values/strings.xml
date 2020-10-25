@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Remote Control Key</string>
+    <string name="desc">imagem cadeado</string>
+    <string name="imageviewlock">imageViewLock</string>
+    <string name="imageviewunlock">imageviewUnlock</string>
+    <string name="iv_silent">imageviewSilentMode</string>
+    <string name="dispositivos_pareados">dispositivos Pareados</string>
+    <string name="action_settings">Settings</string>
+    <string name="config">Config</string>
+    <string name="conectado">Conectado</string>
+    <string name="conectando">Conectando...</string>
+    <string name="textview">TextView</string>
+    <string name="could_not_connect">Não foi possível conectar</string>
+    <string name="bluetoothID">Identificação do Módulo Remoto</string>
+    <string name="troca_de_pin">Troca do PIN do módulo Bluetooth</string>
+</resources>

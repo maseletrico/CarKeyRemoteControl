@@ -1,0 +1,4 @@
+#Fri Oct 09 13:42:50 BRT 2020
+base.0=/home/marco/StudioProjects/RemoteControlKey/app/build/intermediates/transforms/dexMerger/debug/18
+renamed.0=classes.dex
+file.0=/home/marco/StudioProjects/RemoteControlKey/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex
